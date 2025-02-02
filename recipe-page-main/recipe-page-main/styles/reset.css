@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    /*margin: 0;
+    padding: 0; */
+}
+
+
+img {
+    /*100% de su padre que es body para que no se salga*/
+    max-width: 100%;
+}
+
+body {
+    margin: 0;
+}
